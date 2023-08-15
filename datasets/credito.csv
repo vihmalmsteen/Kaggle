@@ -1,3 +1,4 @@
+idade,sexo,dependentes,escolaridade,estado_civil,salario_anual,tipo_cartao,qtd_produtos,iteracoes_12m,meses_inativo_12m,limite_credito,valor_transacoes_12m,qtd_transacoes_12m
 45,M,3,ensino medio,casado,$60K - $80K,blue,5,3,1,12691.51,1144.90,42
 49,F,5,mestrado,solteiro,menos que $40K,blue,6,2,1,8256.96,1291.45,33
 51,M,3,mestrado,casado,$80K - $120K,blue,4,0,1,3418.56,1887.72,20
